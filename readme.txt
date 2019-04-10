@@ -2,7 +2,7 @@ This program solves the Rubik's Cube with A* search algorithm
 
 To Run:
 1. Install Python version >= 2.6.5
-2. Instalall VPython version >= 2.6.5
+2. Instalall VPython version >= 2.6.5 from https://sourceforge.net/projects/vpythonwx/
 3. Run rubik.py file with VPython
 4. Use these keys to shuffle the cube :
   f,F: Front face
